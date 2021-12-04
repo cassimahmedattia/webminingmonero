@@ -1,0 +1,2 @@
+# webminingmonero
+Web Based Mining
